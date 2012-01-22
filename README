@@ -1,0 +1,38 @@
+Gridder
+=======
+
+Gridder is a useful tool for creating Guide Grids in Photoshop.
+
+Features:
+---------
+
+You can set:
+- margins
+- number of columns and rows
+- gutter
+- optional: create guides only on a even number of pixels
+
+Usage:
+------
+
+1. Close Photoshop if it is open.
+
+2. Copy the script and its ‘Scripts Only’ folder to the Scripts folder in your Photoshop installation directory.
+On Windows the path will be something like: C:\Program Files\Adobe\Photoshop CS$\Preset\Scripts. 
+On a Mac this folder is found here: Applications > Photoshop CS$ > Presets > Scripts.
+
+3. Open Photoshop.
+
+4. The script will now appear on the File > Scripts menu and can be run from here at any time.
+
+
+OR (a less permanent way)
+-------------------------
+
+Drag'n Drop the Gridder.jsx on the Photoshop.app.
+
+
+Known issues:
+-------------
+
+Windows let the UI explode. Still usable. Is going to be fixed..
